@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working **on freelance projects**
 
-- 🌱 I’m learning new thing's and discover more tools every day **🌱 I’m learning new thing's and discover more tools every day**
+-  **🌱 I’m learning new thing's and discover more tools every day**
 
-- 💪🏼Future Goals: Learn more technologies - Never stop creating new ideas. **Learn more technologies - Never stop creating new ideas.**
+- 💪🏼Future Goals:  **Learn more technologies - Never stop creating new ideas.**
 
-- 🤝 Open source contributor **Open source contributor**
+- 🤝 **Open source contributor**
 
-- 💬 Ask me about MongoDB Express React JS Node JS and more **MongoDB Express React JS Node JS and more**
+- 💬 Ask me about  **MongoDB Express React JS Node JS and more**
 
-- 📫 How to reach me Email : benshmuel49@gmail.com or linkdin :https://www.linkedin.com/in/ben-shmuel-16a67b249/ **Email : benshmuel49@gmail.com or linkdin :https://www.linkedin.com/in/ben-shmuel-16a67b249/**
+- 📫 How to reach me Email :  **Email : benshmuel49@gmail.com or linkdin :https://www.linkedin.com/in/ben-shmuel-16a67b249/**
 
-- ⚡ Fun fact : facts are mostly not that funny **facts are mostly not that funny**
+- ⚡ Fun fact :  **facts are mostly not that funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
